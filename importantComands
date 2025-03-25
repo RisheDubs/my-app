@@ -1,0 +1,7 @@
+1]
+npm install
+
+2]
+You must have AWS SDK v3 installed:- npm install @aws-sdk/client-dynamodb
+
+3]
